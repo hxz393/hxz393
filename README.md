@@ -1,5 +1,18 @@
 ## Hi there 👋
 
+Soy una persona sordomuda.
+Je suis sourd-muet.
+Ich bin taubstumm.
+Sono sordomuto.
+Sou surdo-mudo.
+Я глухонемой.
+私は聾唖者です。
+أنا أصم أبكم.
+मैं बहरा-गूंगा हूँ।
+저는 농아입니다.
+ฉันเป็นคนหูหนวกและใบ้
+Tôi là người điếc và câm.
+
 <!--
 **hxz393/hxz393** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
