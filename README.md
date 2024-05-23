@@ -3,7 +3,6 @@
 ##### Soy una persona sordomuda.
 ##### Je suis sourd-muet.
 ##### Ich bin taubstumm.
-##### Sono sordomuto.
 ##### Sou surdo-mudo.
 ##### Я глухонемой.
 ##### 私は聾唖者です。
